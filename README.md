@@ -1,2 +1,2 @@
 # trash
-our first repository
+первый репозиторий
